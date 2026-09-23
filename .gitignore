@@ -18,3 +18,10 @@ b3d/out/
 b3d/*.png
 b3d/*.log
 b3d/*.blend*
+# EMBER III (video-model take) artefacts
+ep3/clips/
+ep3/keys/
+ep3/out/
+ep3/board/dailies/
+ep3/board/stills/
+ep3/__pycache__/

@@ -1,0 +1,92 @@
+{"t": 1790203959.925148, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "character sheet v1", "out": "refs/char_sheet_v1.png"}
+{"t": 1790204008.4418602, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "refs/wolf_sheet_v1.png", "out": "refs/wolf_sheet_v1.png"}
+{"t": 1790204014.493077, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "refs/weapon_sheet_v1.png", "out": "refs/weapon_sheet_v1.png"}
+{"t": 1790204014.8847492, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "refs/king_keyvisual_v1.png", "out": "refs/king_keyvisual_v1.png"}
+{"t": 1790204128.7777689, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s03_eclipse", "out": "keys/s03_eclipse.png"}
+{"t": 1790204135.584241, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s04_tide", "out": "keys/s04_tide.png"}
+{"t": 1790204137.909038, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s02_eye", "out": "keys/s02_eye.png"}
+{"t": 1790204138.569586, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s01_clearing", "out": "keys/s01_clearing.png"}
+{"t": 1790204156.30017, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s05a_unfold", "out": "keys/s05a_unfold.png"}
+{"t": 1790204160.770872, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s05b_blade", "out": "keys/s05b_blade.png"}
+{"t": 1790204164.560328, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s05c_chamber", "out": "keys/s05c_chamber.png"}
+{"t": 1790204164.597321, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s06_launch", "out": "keys/s06_launch.png"}
+{"t": 1790204184.138759, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s07a_run", "out": "keys/s07a_run.png"}
+{"t": 1790204189.30428, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s07b_spin", "out": "keys/s07b_spin.png"}
+{"t": 1790204192.8662112, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s07d_slide", "out": "keys/s07d_slide.png"}
+{"t": 1790204194.5673869, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s07c_recoil", "out": "keys/s07c_recoil.png"}
+{"t": 1790204210.766006, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s07f_burst", "out": "keys/s07f_burst.png"}
+{"t": 1790204213.364619, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s08_king", "out": "keys/s08_king.png"}
+{"t": 1790204219.292557, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s09_paw", "out": "keys/s09_paw.png"}
+{"t": 1790204222.372916, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s10_crater", "out": "keys/s10_crater.png"}
+{"t": 1790204235.642318, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s11a_eyes", "out": "keys/s11a_eyes.png"}
+{"t": 1790204235.6577768, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s10b_hand", "out": "keys/s10b_hand.png"}
+{"t": 1790204243.55763, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s11b_ignite", "out": "keys/s11b_ignite.png"}
+{"t": 1790204245.899611, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s12a_ascend", "out": "keys/s12a_ascend.png"}
+{"t": 1790204264.289417, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s13_apex", "out": "keys/s13_apex.png"}
+{"t": 1790204265.039819, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s12b_tendrils", "out": "keys/s12b_tendrils.png"}
+{"t": 1790204265.724821, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s14_cut", "out": "keys/s14_cut.png"}
+{"t": 1790204271.150681, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s15_dawn", "out": "keys/s15_dawn.png"}
+{"t": 1790204287.7861178, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s15b_smile", "out": "keys/s15b_smile.png"}
+{"t": 1790204367.8200378, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "test spin veo-3.1-fast-generate-preview", "out": "clips/test_spin_fast.mp4"}
+{"t": 1790204416.019563, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "test spin lite", "out": "clips/test_spin_lite.mp4"}
+{"t": 1790204480.817259, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s02_eye veo-3.1-lite-generate-preview", "out": "clips/s02_eye_lite.mp4"}
+{"t": 1790204489.571232, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.3, "note": "s01_clearing veo-3.1-lite-generate-preview", "out": "clips/s01_clearing_lite.mp4"}
+{"t": 1790204489.628074, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s02_eye veo-3.1-fast-generate-preview", "out": "clips/s02_eye_fast.mp4"}
+{"t": 1790204497.2768462, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.6, "note": "s01_clearing veo-3.1-fast-generate-preview", "out": "clips/s01_clearing_fast.mp4"}
+{"t": 1790204515.61313, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s03_eclipse veo-3.1-lite-generate-preview", "out": "clips/s03_eclipse_lite.mp4"}
+{"t": 1790204533.7903, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.3, "note": "s04_tide veo-3.1-lite-generate-preview", "out": "clips/s04_tide_lite.mp4"}
+{"t": 1790204541.9156742, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s03_eclipse veo-3.1-fast-generate-preview", "out": "clips/s03_eclipse_fast.mp4"}
+{"t": 1790204556.61788, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.6, "note": "s04_tide veo-3.1-fast-generate-preview", "out": "clips/s04_tide_fast.mp4"}
+{"t": 1790204558.597951, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s06_launch veo-3.1-lite-generate-preview", "out": "clips/s06_launch_lite.mp4"}
+{"t": 1790204585.2193768, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.3, "note": "s07a_run veo-3.1-lite-generate-preview", "out": "clips/s07a_run_lite.mp4"}
+{"t": 1790204587.800006, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s06_launch veo-3.1-fast-generate-preview", "out": "clips/s06_launch_fast.mp4"}
+{"t": 1790204601.486096, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s07b_spin veo-3.1-lite-generate-preview", "out": "clips/s07b_spin_lite.mp4"}
+{"t": 1790204607.5259452, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.6, "note": "s07a_run veo-3.1-fast-generate-preview", "out": "clips/s07a_run_fast.mp4"}
+{"t": 1790204622.3148391, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s07c_recoil veo-3.1-lite-generate-preview", "out": "clips/s07c_recoil_lite.mp4"}
+{"t": 1790204629.5962, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s07b_spin veo-3.1-fast-generate-preview", "out": "clips/s07b_spin_fast.mp4"}
+{"t": 1790204642.317632, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s07d_slide veo-3.1-lite-generate-preview", "out": "clips/s07d_slide_lite.mp4"}
+{"t": 1790204644.5718248, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s07c_recoil veo-3.1-fast-generate-preview", "out": "clips/s07c_recoil_fast.mp4"}
+{"t": 1790204664.226326, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s07f_burst veo-3.1-lite-generate-preview", "out": "clips/s07f_burst_lite.mp4"}
+{"t": 1790204673.5826502, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s07d_slide veo-3.1-fast-generate-preview", "out": "clips/s07d_slide_fast.mp4"}
+{"t": 1790204684.840053, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s07f_burst veo-3.1-fast-generate-preview", "out": "clips/s07f_burst_fast.mp4"}
+{"t": 1790204695.296383, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.4, "note": "s08_king veo-3.1-lite-generate-preview", "out": "clips/s08_king_lite.mp4"}
+{"t": 1790204708.1981819, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s09_paw veo-3.1-lite-generate-preview", "out": "clips/s09_paw_lite.mp4"}
+{"t": 1790204716.121391, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.8, "note": "s08_king veo-3.1-fast-generate-preview", "out": "clips/s08_king_fast.mp4"}
+{"t": 1790204735.6193721, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s09_paw veo-3.1-fast-generate-preview", "out": "clips/s09_paw_fast.mp4"}
+{"t": 1790204737.813148, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.3, "note": "s10_crater veo-3.1-lite-generate-preview", "out": "clips/s10_crater_lite.mp4"}
+{"t": 1790204750.378243, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s10b_hand veo-3.1-lite-generate-preview", "out": "clips/s10b_hand_lite.mp4"}
+{"t": 1790204751.2932758, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.6, "note": "s10_crater veo-3.1-fast-generate-preview", "out": "clips/s10_crater_fast.mp4"}
+{"t": 1790204778.215688, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s10b_hand veo-3.1-fast-generate-preview", "out": "clips/s10b_hand_fast.mp4"}
+{"t": 1790204780.4435499, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s11a_eyes veo-3.1-lite-generate-preview", "out": "clips/s11a_eyes_lite.mp4"}
+{"t": 1790204786.144934, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.3, "note": "s11b_ignite veo-3.1-lite-generate-preview", "out": "clips/s11b_ignite_lite.mp4"}
+{"t": 1790204793.0600939, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s11a_eyes veo-3.1-fast-generate-preview", "out": "clips/s11a_eyes_fast.mp4"}
+{"t": 1790204814.7892458, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.3, "note": "s12a_ascend veo-3.1-lite-generate-preview", "out": "clips/s12a_ascend_lite.mp4"}
+{"t": 1790204827.708568, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s12b_tendrils veo-3.1-lite-generate-preview", "out": "clips/s12b_tendrils_lite.mp4"}
+{"t": 1790204829.4196968, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.6, "note": "s11b_ignite veo-3.1-fast-generate-preview", "out": "clips/s11b_ignite_fast.mp4"}
+{"t": 1790204837.06864, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.6, "note": "s12a_ascend veo-3.1-fast-generate-preview", "out": "clips/s12a_ascend_fast.mp4"}
+{"t": 1790204857.4938219, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s12b_tendrils veo-3.1-fast-generate-preview", "out": "clips/s12b_tendrils_fast.mp4"}
+{"t": 1790204862.169854, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s13_apex veo-3.1-lite-generate-preview", "out": "clips/s13_apex_lite.mp4"}
+{"t": 1790204872.06839, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s13_apex veo-3.1-fast-generate-preview", "out": "clips/s13_apex_fast.mp4"}
+{"t": 1790204879.9380999, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.3, "note": "s14_cut veo-3.1-lite-generate-preview", "out": "clips/s14_cut_lite.mp4"}
+{"t": 1790204906.389077, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.4, "note": "s15_dawn veo-3.1-lite-generate-preview", "out": "clips/s15_dawn_lite.mp4"}
+{"t": 1790204909.1114838, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.6, "note": "s14_cut veo-3.1-fast-generate-preview", "out": "clips/s14_cut_fast.mp4"}
+{"t": 1790204914.417717, "kind": "video", "model": "veo-3.1-lite-generate-preview", "cost": 0.2, "note": "s15b_smile veo-3.1-lite-generate-preview", "out": "clips/s15b_smile_lite.mp4"}
+{"t": 1790204931.379721, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.8, "note": "s15_dawn veo-3.1-fast-generate-preview", "out": "clips/s15_dawn_fast.mp4"}
+{"t": 1790204949.5123231, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "s15b_smile veo-3.1-fast-generate-preview", "out": "clips/s15b_smile_fast.mp4"}
+{"t": 1790205087.6848981, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key s08 v2 blue eyes", "out": "keys/s08_king_v2.png"}
+{"t": 1790205147.1639092, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.8, "note": "s08 v2 fast", "out": "clips/s08_king_v2_fast.mp4"}
+{"t": 1790205632.318788, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key i2_blade", "out": "keys/i2_blade.png"}
+{"t": 1790205633.089014, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key i1_cry", "out": "keys/i1_cry.png"}
+{"t": 1790205633.130531, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key i3_lunge", "out": "keys/i3_lunge.png"}
+{"t": 1790205638.325314, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "key i4_lookdown", "out": "keys/i4_lookdown.png"}
+{"t": 1790205676.678217, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "i2_blade fast", "out": "clips/i2_blade_fast.mp4"}
+{"t": 1790205678.06898, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "i3_lunge fast", "out": "clips/i3_lunge_fast.mp4"}
+{"t": 1790205686.057923, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "i1_cry fast", "out": "clips/i1_cry_fast.mp4"}
+{"t": 1790205722.035021, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "i4_lookdown fast", "out": "clips/i4_lookdown_fast.mp4"}
+{"t": 1790205781.139751, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "i1_cry fast", "out": "clips/i1_cry_fast.mp4"}
+{"t": 1790205781.843402, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "i2_blade fast", "out": "clips/i2_blade_fast.mp4"}
+{"t": 1790205781.861251, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "i3_lunge fast", "out": "clips/i3_lunge_fast.mp4"}
+{"t": 1790205821.8526258, "kind": "video", "model": "veo-3.1-fast-generate-preview", "cost": 0.4, "note": "i4_lookdown fast", "out": "clips/i4_lookdown_fast.mp4"}
+{"t": 1790205883.956519, "kind": "video", "model": "veo-3.1-generate-preview", "cost": 3.2, "note": "s13_apex std 1080p", "out": "clips/s13_apex_std1080.mp4"}
+{"t": 1790205891.904208, "kind": "video", "model": "veo-3.1-generate-preview", "cost": 3.2, "note": "s14_cut std 1080p", "out": "clips/s14_cut_std1080.mp4"}
+{"t": 1790205908.507982, "kind": "video", "model": "veo-3.1-generate-preview", "cost": 3.2, "note": "s11b_ignite std 1080p", "out": "clips/s11b_ignite_std1080.mp4"}
