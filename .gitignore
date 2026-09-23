@@ -4,3 +4,17 @@ scratch/
 out/
 *.pyc
 .DS_Store
+# EMBER II render artefacts
+b3d/fin/
+b3d/finp/
+b3d/pv/
+b3d/pvp/
+b3d/anim*/
+b3d/prev*/
+b3d/hires/
+b3d/look/
+b3d/debug/
+b3d/out/
+b3d/*.png
+b3d/*.log
+b3d/*.blend*

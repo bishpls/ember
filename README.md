@@ -1,5 +1,9 @@
 # EMBER
 
+> **New: [EMBER II · ASH](b3d/)** is a 52-second 3D sequel built headless in Blender from Python. It's grittier and physics-grounded. [Watch it (media/ember2.mp4)](media/ember2.mp4)
+>
+> ![EMBER II](media/poster2.jpg)
+
 ![EMBER — the break](media/poster.jpg)
 
 A 30-second action short inspired by Monty Oum's *Red* trailer, generated entirely in code: score, sound design, animation, camera and grading. It contains no hand-drawn frames or samples and no external assets.
