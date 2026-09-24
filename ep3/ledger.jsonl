@@ -90,3 +90,6 @@
 {"t": 1790205883.956519, "kind": "video", "model": "veo-3.1-generate-preview", "cost": 3.2, "note": "s13_apex std 1080p", "out": "clips/s13_apex_std1080.mp4"}
 {"t": 1790205891.904208, "kind": "video", "model": "veo-3.1-generate-preview", "cost": 3.2, "note": "s14_cut std 1080p", "out": "clips/s14_cut_std1080.mp4"}
 {"t": 1790205908.507982, "kind": "video", "model": "veo-3.1-generate-preview", "cost": 3.2, "note": "s11b_ignite std 1080p", "out": "clips/s11b_ignite_std1080.mp4"}
+{"t": 1790207059.756814, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "ep3b style ../ep3b/refs/style_night.png", "out": "../ep3b/refs/style_night.png"}
+{"t": 1790207061.08496, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "ep3b style ../ep3b/refs/style_fire.png", "out": "../ep3b/refs/style_fire.png"}
+{"t": 1790207062.0043452, "kind": "image", "model": "gemini-3-pro-image-preview", "cost": 0.134, "note": "ep3b style ../ep3b/refs/style_face.png", "out": "../ep3b/refs/style_face.png"}

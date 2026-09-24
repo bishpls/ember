@@ -25,3 +25,7 @@ ep3/out/
 ep3/board/dailies/
 ep3/board/stills/
 ep3/__pycache__/
+# EMBER III hand-animated artefacts
+ep3b/node_modules/
+ep3b/out/
+ep3b/board/

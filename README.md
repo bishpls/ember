@@ -1,6 +1,12 @@
 # EMBER
 
-> **New: [EMBER II · ASH](b3d/)** is a 52-second 3D sequel built headless in Blender from Python. It's grittier and physics-grounded. [Watch it (media/ember2.mp4)](media/ember2.mp4)
+> **New: [EMBER III · KINDLE](ep3b/)** is 64 seconds of anime-style action, hand-animated entirely in JavaScript with no video models. [Watch it (media/ember3.mp4)](media/ember3.mp4)
+>
+> ![EMBER III](media/poster3.jpg)
+>
+> For comparison, the [video-model take of III](ep3/) is kept as a reference.
+>
+> **[EMBER II · ASH](b3d/)** is a 52-second 3D sequel built headless in Blender from Python. It's grittier and physics-grounded. [Watch it (media/ember2.mp4)](media/ember2.mp4)
 >
 > ![EMBER II](media/poster2.jpg)
 
