@@ -12,8 +12,8 @@ import argparse
 
 HERE = pathlib.Path(__file__).resolve().parent
 LEDGER = HERE / 'ledger.jsonl'
-CAP = 100.0
-WARN = 80.0
+CAP = 200.0
+WARN = 170.0
 
 PRICE = {
     'gemini-3-pro-image-preview': 0.134,       # per image (1K/2K)
@@ -137,6 +137,53 @@ def video(prompt, out, first=None, last=None, refs=(), model='veo-3.1-fast-gener
     v.save(str(out))
     log('video', model, cost, note or prompt[:80], out)
     print(f'video {out} in {time.time() - t0:.0f}s')
+    return out
+
+
+_oai = None
+
+
+def oclient():
+    global _oai
+    if _oai is None:
+        from openai import OpenAI
+        _oai = OpenAI(api_key=_keys()['OPENAI_API_KEY'])
+    return _oai
+
+
+def oai_image(prompt, out, refs=(), model='gpt-image-2', size='1536x1024', quality='high', background=None, note=''):
+    """GPT Image generate/edit. Cost is computed from returned token usage."""
+    import base64
+    charge('image', model, 0.40, note)      # pre-check with a conservative estimate
+    kw = dict(model=model, prompt=prompt, size=size, quality=quality)
+    if background:
+        kw['background'] = background
+    for attempt in range(3):
+        try:
+            if refs:
+                files = [open(r, 'rb') for r in refs]
+                r = oclient().images.edit(image=files, **kw)
+                for f in files:
+                    f.close()
+            else:
+                r = oclient().images.generate(**kw)
+            break
+        except Exception as e:
+            print('retry', attempt, str(e)[:300])
+            time.sleep(5 * (attempt + 1))
+    else:
+        raise SystemExit('oai image failed')
+    u = getattr(r, 'usage', None)
+    cost = 0.25
+    if u is not None:
+        it = getattr(u, 'input_tokens', 0) or 0
+        ot = getattr(u, 'output_tokens', 0) or 0
+        det = getattr(u, 'input_tokens_details', None)
+        img_in = getattr(det, 'image_tokens', 0) if det else 0
+        cost = (it - img_in) * 5e-6 + img_in * 8e-6 + ot * 30e-6
+    pathlib.Path(out).parent.mkdir(parents=True, exist_ok=True)
+    pathlib.Path(out).write_bytes(base64.b64decode(r.data[0].b64_json))
+    log('image', model, cost, note or prompt[:80], out)
     return out
 
 

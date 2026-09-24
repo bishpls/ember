@@ -29,3 +29,14 @@ ep3/__pycache__/
 ep3b/node_modules/
 ep3b/out/
 ep3b/board/
+# EMBER III studio artefacts
+ep4/out/
+ep4/board/
+ep4/node_modules
+ep4/guides/
+ep4/guides2/
+ep4/pf_*.png
+ep4/*.jpg
+ep4/*.mp4
+ep4/*.wav
+ep4/__pycache__/

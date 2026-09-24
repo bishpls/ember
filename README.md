@@ -1,6 +1,12 @@
 # EMBER
 
-> **New: [EMBER III · KINDLE](ep3b/)** is 64 seconds of anime-style action, hand-animated entirely in JavaScript with no video models. [Watch it (media/ember3.mp4)](media/ember3.mp4)
+> **New: [EMBER III · KINDLE, studio pipeline](ep4/)**: 67 seconds of anime. Claude handles layout, timing and compositing, and an image model draws each key and in-between into Claude's layouts. No video models. [Watch it (media/ember3_studio.mp4)](media/ember3_studio.mp4)
+>
+> ![EMBER III studio](media/poster3_studio.jpg)
+>
+> Earlier takes of III: [hand-animated in JS](ep3b/) · [video-model](ep3/)
+>
+> **[EMBER III · KINDLE (hand-animated)](ep3b/)** is 64 seconds of anime-style action, hand-animated entirely in JavaScript with no video models. [Watch it (media/ember3.mp4)](media/ember3.mp4)
 >
 > ![EMBER III](media/poster3.jpg)
 >
